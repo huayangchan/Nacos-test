@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../../Repository/nacos-test/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-grpc-chy/pom.xml" />
       </list>
     </option>
   </component>

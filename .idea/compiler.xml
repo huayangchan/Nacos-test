@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="nacos-test" />
+        <module name="nacos-grpc-chy" />
       </profile>
     </annotationProcessing>
   </component>
